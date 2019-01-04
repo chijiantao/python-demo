@@ -1,3 +1,3 @@
-#!/usr/bin/evn python
+#!/usr/bin/env python
 
 print 'hello world'
